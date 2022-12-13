@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @DilsherB
-- 👀 I’m interested in software development 
+- 👋 Hi, I’m @Dilsher Balouch
 - 🌱 I’m currently learning JavaScript from Microverse. 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me dilsherb@gmail.com
-- 📫 Visit my Portfolio at https://dilsherb.github.io/Portfolio/
+- 👀 Visit my Portfolio at https://dilsherb.github.io/Portfolio/
 
 <!---
 DilsherB/DilsherB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
