@@ -33,11 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo14336
-Fork on GitHub3806
 <h1 align="center">Hi 👋, I'm Dilsher Balouch</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
@@ -77,28 +72,3 @@ Fork on GitHub3806
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsherb&show_icons=true&locale=en" alt="dilsherb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilsherb&" alt="dilsherb" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
