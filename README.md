@@ -10,20 +10,17 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Dilsher Balouch</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsherb&label=Profile%20views&color=0e75b6&style=flat" alt="dilsherb" /> </p>
-[![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilsherb" alt="dilsherb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
 
-- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB)
+- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories)
 
 - 🌱 I’m currently learning **full stack development at Microverse**
 
