@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
 
-- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories)
+- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories target="blank")
 
 - 🌱 I’m currently learning **full stack development at Microverse**
 
