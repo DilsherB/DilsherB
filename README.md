@@ -1,14 +1,3 @@
-
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/_brilliantMindz)](https://gtce.itsvg.in)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Dilsher Balouch</h1>
@@ -20,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
 
-- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories target="blank")
+- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories)
 
 - 🌱 I’m currently learning **full stack development at Microverse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DilsherB](https://github.com/DilsherB)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DilsherB)
 
 - 💬 Ask me about **JavaScript, React, Ruby on rails, HTML, CSS, Bootstrap, PHP, MySQL**
 
@@ -50,3 +39,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsherb&show_icons=true&locale=en" alt="dilsherb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilsherb&" alt="dilsherb" /></p>
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/_brilliantMindz)](https://gtce.itsvg.in)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
