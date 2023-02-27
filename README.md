@@ -48,4 +48,4 @@
 ### 😂 Random Dev Meme
 ![](https://www.npmjs.com/package/memer-api?type=horizontal&theme=radical)
 
-<img src="https://www.npmjs.com/package/memer-api" width="512px"/>
+<!-- <img src="https://www.npmjs.com/package/memer-api" width="512px"/> -->
