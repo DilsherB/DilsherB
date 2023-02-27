@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
 
-- 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories)
+- 🔭 I'm currently learning full-stack development at [Microverse]([https://github.com/DilsherB?tab=repositories](https://www.microverse.org/))
 
 - 🌱  I'm a self-taught programmer from **Pakistan**.
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dilsherb@gmail.com**
 
-- ⚡ Fun fact **trying to enjoy everything in a funny way**
+- ⚡ Fun fact **trying to enjoy everything in a lively way**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
