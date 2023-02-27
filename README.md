@@ -49,4 +49,4 @@
 ### 😂 Random Dev Meme
 <!-- ![](https://www.npmjs.com/package/memer-api?type=horizontal&theme=radical) -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px"/>
+<img src="https://www.npmjs.com/package/memer-api?type=horizontal&theme=radical" width="512px"/>
