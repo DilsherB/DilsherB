@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
 
-- 🔭 I'm currently learning full-stack development at [Microverse]([https://github.com/DilsherB?tab=repositories](https://www.microverse.org/))
+- 🔭 I'm currently learning full-stack development at [Microverse](https://github.com/DilsherB?tab=repositories)
 
 - 🌱  I'm a self-taught programmer from **Pakistan**.
 
