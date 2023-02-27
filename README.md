@@ -46,4 +46,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
+![](https://www.npmjs.com/package/memer-api?type=horizontal&theme=radical)
+
 <img src="https://www.reddit.com/r/ProgrammerHumor/" width="512px"/>
