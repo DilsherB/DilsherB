@@ -44,7 +44,7 @@
 
 ### ✍️ Random Dev Quote
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" height="30px">
 
 ### 😂 Random Dev Meme
 ![](https://www.npmjs.com/package/memer-api?type=horizontal&theme=radical)
