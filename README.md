@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [trial projects](https://github.com/DilsherB?tab=repositories)
 
-- 🌱 I’m currently learning **full stack development at Microverse**
+- 🌱  I'm a self-taught programmer from **Pakistan**.
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/DilsherB)
 
