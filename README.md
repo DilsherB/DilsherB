@@ -11,7 +11,7 @@ With hands-on experience in frontend and backend development, database managemen
 - ⚛️ Frontend development with **JavaScript, TypeScript, React, Redux**
 - ⚙️ Backend development with **Ruby on Rails, Node.js, Express**
 - 🗄️ Database management with **PostgreSQL and MySQL**
-- 🎨 UI development with **Bootstrap, Tailwind CSS and Material UI**
+- 🎨 UI development with **Bootstrap, Tailwind CSS, Sass and Material UI**
 - 🔧 Experienced with **Git, GitHub and Web Development Workflows**
 - 🌍 Based in **Pakistan**
 - 📂 Explore my projects: [GitHub Repositories](https://github.com/DilsherB?tab=repositories)
