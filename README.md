@@ -14,7 +14,7 @@ With hands-on experience in frontend and backend development, database managemen
 - 🎨 UI development with **Bootstrap, Tailwind CSS and Material UI**
 - 🔧 Experienced with **Git, GitHub and Web Development Workflows**
 - 🌍 Based in **Pakistan**
-- 📂 Explore my projects: [GitHub Repositories](https://github.com/DilsherB)
+- 📂 Explore my projects: [GitHub Repositories]([https://github.com/DilsherB](https://github.com/DilsherB?tab=repositories))
 - 📫 Reach me at: **dilsherb@gmail.com**
 
 ---
