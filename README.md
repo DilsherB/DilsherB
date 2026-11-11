@@ -1,47 +1,97 @@
-<h1 align="center">Hi 👋, I'm Dilsher Balouch</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+# Hi 👋, I'm Dilsher Balouch
 
-[![](https://visitcount.itsvg.in/api?id=DilsherB&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsherb&label=Profile%20views&color=0e75b6&style=flat" alt="dilsherb" /> </p> -->
+### Full-Stack Developer | Software Engineer | Problem Solver 🇵🇰
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilsherb" alt="dilsherb" /></a> </p>
+I am a passionate Full-Stack Developer focused on building scalable, responsive, and user-friendly web applications. I enjoy transforming ideas into practical digital solutions through clean code, modern technologies, and continuous improvement.
 
-<p align="left"> <a href="https://twitter.com/_brilliantmindz" target="blank"><img src="https://img.shields.io/twitter/follow/_brilliantmindz?logo=twitter&style=for-the-badge" alt="_brilliantmindz" /></a> </p>
+With hands-on experience in frontend and backend development, database management, and application architecture, I strive to build software that solves real-world problems.
 
-- 🔭 I'm currently learning full-stack development at [Microverse](https://github.com/DilsherB?tab=repositories)
+- 💻 Specializing in **Full-Stack Web Development**
+- 🚀 Building modern and responsive web applications
+- ⚛️ Frontend development with **JavaScript, React, Redux**
+- ⚙️ Backend development with **Ruby on Rails, Node.js, Express**
+- 🗄️ Database management with **PostgreSQL and MySQL**
+- 🎨 UI development with **Bootstrap, Tailwind CSS and Material UI**
+- 🔧 Experienced with **Git, GitHub and Web Development Workflows**
+- 🌍 Based in **Pakistan**
+- 📂 Explore my projects: [GitHub Repositories](https://github.com/DilsherB)
+- 📫 Reach me at: **dilsherb@gmail.com**
 
-- 🌱  I'm a self-taught programmer from **Pakistan**.
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/DilsherB)
+### 🤝 Connect With Me
 
-- 💬 Ask me about **JavaScript, React, Ruby on rails, HTML, CSS, Bootstrap, PHP, MySQL**
-
-- 📫 How to reach me **dilsherb@gmail.com**
-
-- ⚡ Fun fact **trying to enjoy everything in a lively way**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_brilliantmindz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_brilliantmindz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/brilliantmindz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brilliantmindz" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17731460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17731460" height="30" width="40" /></a>
-<a href="https://fb.com/dilsherb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilsherb" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dilsherbalouch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dilsherbalouch" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dilsherb1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilsherb1" height="30" width="40" /></a>
+<a href="https://twitter.com/_brilliantmindz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/brilliantmindz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+<a href="https://stackoverflow.com/users/17731460" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="Stack Overflow"/></a>
+<a href="https://fb.com/dilsherb" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/></a>
+<a href="https://www.youtube.com/c/@dilsherbalouch" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube"/></a>
+<a href="https://www.hackerrank.com/dilsherb1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilsherb&show_icons=true&locale=en&layout=compact" alt="dilsherb" /></p>
+### 🛠️ Technologies & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilsherb&show_icons=true&locale=en" alt="dilsherb" /></p>
+#### Frontend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilsherb&" alt="dilsherb" /></p>
+#### Backend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40" alt="Ruby"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40" alt="Ruby on Rails"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
+</p>
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/_brilliantMindz)](https://gtce.itsvg.in)
+#### Databases & Development Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" alt="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" width="40" height="40" alt="Webpack"/>
+</p>
 
-### ✍️ Random Dev Quote
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="512px">
+---
+
+### 📊 GitHub Statistics
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilsherB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilsherB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DilsherB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Profile Trophies
+
+<p>
+<img src="https://github-profile-trophy.vercel.app/?username=DilsherB&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 💡 Developer Mindset
+
+> Great software is not just about writing code. It's about solving problems, creating value, and making technology useful for people.
+
+⚡ *Building solutions, improving every day, and turning ideas into reality.*
+
