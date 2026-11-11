@@ -68,14 +68,6 @@ With hands-on experience in frontend and backend development, database managemen
 ### 📊 GitHub Statistics
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DilsherB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilsherB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DilsherB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
