@@ -8,7 +8,7 @@ With hands-on experience in frontend and backend development, database managemen
 
 - 💻 Specializing in **Full-Stack Web Development**
 - 🚀 Building modern and responsive web applications
-- ⚛️ Frontend development with **JavaScript, React, Redux**
+- ⚛️ Frontend development with **JavaScript, TypeScript, React, Redux**
 - ⚙️ Backend development with **Ruby on Rails, Node.js, Express**
 - 🗄️ Database management with **PostgreSQL and MySQL**
 - 🎨 UI development with **Bootstrap, Tailwind CSS and Material UI**
