@@ -21,7 +21,7 @@ With hands-on experience in frontend and backend development, database managemen
 
 ### 🤝 Connect With Me
 
-<p align="left">
+<p align="left" background="white">
 <a href="https://twitter.com/_brilliantmindz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
 <a href="https://linkedin.com/in/brilliantmindz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
 <a href="https://stackoverflow.com/users/17731460" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" alt="Stack Overflow"/></a>
