@@ -81,12 +81,6 @@ With hands-on experience in frontend and backend development, database managemen
 
 ---
 
-### 🏆 GitHub Profile Trophies
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=DilsherB&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ### 💡 Developer Mindset
